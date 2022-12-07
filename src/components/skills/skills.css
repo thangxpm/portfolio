@@ -29,6 +29,7 @@
     display: grid;
     align-items: flex-start;
     row-gap: 1rem;
+    align-self: center;
 }
 
 .skill__data {
