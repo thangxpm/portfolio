@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.6e106573.css",
-    "main.js": "/portfolio/static/js/main.67c76dd7.js",
+    "main.css": "/portfolio/static/css/main.dd87aa0b.css",
+    "main.js": "/portfolio/static/js/main.95dbd2f3.js",
     "static/media/profile.jpg": "/portfolio/static/media/profile.01418214281c985a42bb.jpg",
     "static/media/about.jpg": "/portfolio/static/media/about.25037666cca34f8f569a.jpg",
     "static/media/Nguyen-Lam-Thang-CV.pdf": "/portfolio/static/media/Nguyen-Lam-Thang-CV.a76fa2deec734efbd097.pdf",
     "static/media/work2.jpg": "/portfolio/static/media/work2.e52a0c2981a6c11ba468.jpg",
     "static/media/work1.jpg": "/portfolio/static/media/work1.321b4ae3bf404acdfdc6.jpg",
     "index.html": "/portfolio/index.html",
-    "main.6e106573.css.map": "/portfolio/static/css/main.6e106573.css.map",
-    "main.67c76dd7.js.map": "/portfolio/static/js/main.67c76dd7.js.map"
+    "main.dd87aa0b.css.map": "/portfolio/static/css/main.dd87aa0b.css.map",
+    "main.95dbd2f3.js.map": "/portfolio/static/js/main.95dbd2f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e106573.css",
-    "static/js/main.67c76dd7.js"
+    "static/css/main.dd87aa0b.css",
+    "static/js/main.95dbd2f3.js"
   ]
 }
