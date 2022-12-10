@@ -32,7 +32,7 @@ function Frontend() {
                     <i className="bx bx-badge-check"></i>
 
                     <h3 className="skills_name">Bootstrap</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Basic</span>
                 </div>
 
                 <div className="skills__data"> 
@@ -53,7 +53,7 @@ function Frontend() {
                     <i className="bx bx-badge-check"></i>
 
                     <h3 className="skills_name">NextJs</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Basic</span>
                 </div>
 
                 <div className="skills__data">
@@ -66,7 +66,7 @@ function Frontend() {
                     <i className="bx bx-badge-check"></i>
 
                     <h3 className="skills_name">TypeScript</h3>
-                        <span className="skills__level">Intermediate</span>
+                        <span className="skills__level">Basic</span>
                 </div>
                 
             </div>

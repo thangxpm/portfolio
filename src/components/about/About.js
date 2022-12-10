@@ -14,10 +14,7 @@ const About = () => {
         <img src={AboutImg} alt="" className="about__img" />
         <div className="about__data">
             <Info/>
-            <p className="about__description">Frontend developer,
-            I create web pages with UI.UX user interface,
-            I have years of experience and many clients
-            are happy with the projects carried out.
+            <p className="about__description">I'm a front end developer base in Vinh Long, I'm very passionate and dedicate to my work.
             </p>
             <a download='' href={CV} className="button button--flex">
                 Download CV
