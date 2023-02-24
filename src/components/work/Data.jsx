@@ -17,7 +17,7 @@ export const projectsData = [
     image: work2,
     title:'Meetup',
     category: 'App',
-    link:'',
+    link:'https://meetup-nextjs-thangxpm.vercel.app/',
 },
 
 {
