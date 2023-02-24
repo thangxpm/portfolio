@@ -68,7 +68,7 @@ const Qualification = () => {
                         <div>
                         <h3 className="qualification__subtitle">Material Quality Process</h3>
                         <span className="qualification__subtitle">
-                            Sourth Island Garment - VietNam
+                        South Island Garment VietNam
                         </span>
                         <div className="qualification__calendar">
                             <i className="uil uil-calendar-alt">
