@@ -9,7 +9,7 @@ export const projectsData = [
     image: work1,
     title:'To-do list',
     category: 'App',
-    link:'https://todolist-thangxpm.vercel.app',
+    link:'',
 },
 
 {
@@ -25,7 +25,7 @@ export const projectsData = [
     image: work3,
     title:'Portfolio',
     category: 'Web',
-    link:'',
+    link:'https://portfolio-thangxpm.vercel.app',
 }
 ]
 
