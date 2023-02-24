@@ -15,8 +15,7 @@ My personal portfolio <a href="https://portfolio-thangxpm.vercel.app/" target="_
 This project was built using these technologies.
 
 - React.js
-- CSS3
-- VsCode
+- HTML/CSS3
 
 ## Features
 
